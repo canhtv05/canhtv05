@@ -2,6 +2,9 @@
 
 
 <p>Welcome to my page! </br> I'm VanCanh, FE & BE developer from <b>VietNam</b>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=canhtv05&color=blue" alt="Profile Views" />
+</p>
 
 ###
 
