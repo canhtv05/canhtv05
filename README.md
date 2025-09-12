@@ -2,9 +2,9 @@
 
 
 <p>Welcome to my page! </br> I'm VanCanh, FE & BE developer from <b>VietNam</b>
-<p>
+<!-- <p>
   <img src="https://komarev.com/ghpvc/?username=canhtv05&color=blue" alt="Profile Views" />
-</p>
+</p> -->
 
 ###
 
@@ -29,3 +29,4 @@
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
 </p>
+
