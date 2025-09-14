@@ -12,8 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=canhtv05&color=blue" alt="Profile Views" />
 </p> -->
 
----
-
 ### 🚀 Skills
 
 #### 🔹 Backend
@@ -47,12 +45,12 @@
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
 </p>
 
----
 
 ### 📚 Currently Learning
 <p align="center">
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 </p>
+
 
 
