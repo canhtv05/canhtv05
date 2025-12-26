@@ -5,9 +5,9 @@
   I'm <b>VanCanh</b>, a FE & BE developer from <b>VietNam</b> 🇻🇳
 </p>
 
-### 📊 Activity Overview
 
-<p align="center">
+<!-- <p align="center">
+  ### 📊 Activity Overview
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=canhtv05&theme=dracula&area=true&hide_border=true" width="100%" />
 </p>
 
@@ -17,7 +17,7 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=canhtv05&layout=compact&theme=dracula" height="185px" />
 </p>
 
----
+--- -->
 
 ### 🚀 Stacks
 
@@ -49,3 +49,4 @@
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
 </p>
+
